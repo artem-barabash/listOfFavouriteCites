@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Найулюбленіші міста</string>
+    <string name="city1">Київ</string>
+    <string name="city2">Харків</string>
+    <string name="city3">Дніпро</string>
+    <string name="city4">Львів</string>
+    <string name="city5">Севастополь</string>
+</resources>
